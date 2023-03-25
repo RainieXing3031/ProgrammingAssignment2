@@ -19,7 +19,7 @@ makeCacheMatrix <- function(x = matrix()) {
       getinv = getinv)
    }
 
-##write a shor comment describing this function
+##write a short comment describing this function
 ## this is used to get the cache data
 
 cacheSolve <- function(x, ...) ##gets cache data
